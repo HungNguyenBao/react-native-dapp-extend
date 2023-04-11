@@ -4,7 +4,7 @@ const defaultValue = Object.freeze({
     clientMeta: {
         description: "Connect with WalletConnect",
         url: "https://walletconnect.org",
-        icons: ["https://walletconnect.org/walletconnect-logo.png"],
+        icons: ["https://storage.googleapis.com/buidler/public/buidler/logo_buidler.png"],
         name: "WalletConnect",
     },
     storageOptions: {
